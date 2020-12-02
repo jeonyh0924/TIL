@@ -1,5 +1,5 @@
 # AWS
-[AWS에 대한 이해](https://russwest.tistory.com/4)
+[AWS에 대한 이해](https://russwest.tistory.com/4){:target="_blank"}
 
 # DJango
 [WS, WAS - Nginx, uWSGI](https://russwest.tistory.com/3)
