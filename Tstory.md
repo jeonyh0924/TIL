@@ -31,3 +31,5 @@
 - [단위 테스트의 활용](https://russwest.tistory.com/19)
 - [단위 테스트 활용 방법 : JUnit 참조 가이드를 읽고](https://russwest.tistory.com/20)
 - [pycon - 우아하게 준비하는 테스트와 리팩토링 - 한성민님의 발표를 듣고](https://russwest.tistory.com/21)
+
+rebase test
